@@ -8,14 +8,14 @@
 Yo I’m <b>Amann 🧩</b><br>
 I write bugs — then turn them into features.
 Building weirdly good websites and apps that somehow just work.
-<a href="https://t.co/vlbPEs5sT2" target="_blank" style="text-decoration: underline;">See the chaos</a>
+<a href="https://www.buricodes.in/" target="_blank" style="text-decoration: underline;">See the chaos</a>
 </em>
 </p>
 
 </p>
  <div align="center">
 
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BBluedv)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/buricodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-saini-11b6b1311/)
 [![Reddit](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Vivid_Sign_6403/)
 
